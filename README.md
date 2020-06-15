@@ -9,7 +9,7 @@ The objective is to create a full stack application that fetches boat data and c
 
 The `json` dataset is included in this repository.
 
-You can use any libraries you consider necessary for the successful implementation of the project, but ensure that you application meets the requirements.
+You can use any library you consider necessary for the successful implementation of the project, but ensure that your application meets the requirements.
 
 ## Requirements
 
