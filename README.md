@@ -31,5 +31,5 @@ You can use any libraries you consider necessary for the successful implementati
 - Unit tests;
 - Results linking to a details page;
 - CI implementation;
-- You application is deployed somewhere (Heroku, Now or any other);
+- You application is deployed somewhere (Heroku, Vercel or any other);
 - Application is dockerized;
