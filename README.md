@@ -1,6 +1,6 @@
 # Zizoo Fullstack Code Challenge
 
-This project is designed to test the candidates ability to tackle problems similar to applications we develop at Zizoo.
+This project is designed to test the candidate's ability to tackle problems similar to ones we face at Zizoo.
 The instructions are broad in order to give the developer freedom to design, implement and test their own solution.
 
 ## Instructions
