@@ -21,7 +21,7 @@ You can use any libraries you consider necessary for the successful implementati
   Example: `GET /boats?location=Berlin&min_length=10&nr_guest=10&cabins=4`
 
 ### Front-end
-- Language can be your own choice (We use React);
+- Should be written in React (It's what we use and we would like someone who is proficient with it);
 - Results should have pagination;
 - Special values should be formatted accordingly (e.g. date);
 - Should use semantic HTML tags;
